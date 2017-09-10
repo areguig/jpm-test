@@ -1,0 +1,13 @@
+entity,type,agreedfx,currency,instructionDate,settlementDate,units,price
+first_B,B,0.5,SGP,01 Jan 2017,02 Jan 2017,2000,100
+first_B,B,0.5,USD,02 Jan 2017,05 Jan 2017,2000,100
+first_B,B,0.5,EUR,03 Jan 2017,07 Jan 2017,2000,100
+second_B,B,0.22,AED,05 Jan 2017,07 Jan 2017,450,100
+second_B,B,0.22,CNY,05 Feb 2017,07 Feb 2017,450,100
+second_B,B,0.22,CNY,05 Mar 2017,07 Mar 2017,450,100
+first_S,S,0.5,SGP,01 Jan 2017,02 Jan 2017,2000,100
+first_S,S,0.5,USD,02 Jan 2017,05 Jan 2017,2000,100
+first_S,S,0.5,EUR,03 Jan 2017,07 Jan 2017,2000,100
+second_S,S,0.22,EUR,05 Jan 2017,07 Jan 2017,450,100
+second_S,S,0.22,AED,05 Feb 2017,07 Feb 2017,450,100
+second_S,S,0.22,JPY,05 Mar 2017,07 Mar 2017,450,100

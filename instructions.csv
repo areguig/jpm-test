@@ -1,0 +1,6 @@
+entity,type,agreedfx,currency,instructionDate,settlementDate,units,price
+foo,B,0.5,SGP,01 Jan 2017,02 Jan 2017,200,100.25
+bar,S,0.22,AED,05 Jan 2017,07 Jan 2017,450,150.5
+xrp,S,0.26,EUR,06 Aug 2017,15 Aug 2017,1023,0.23
+eth,B,0.23,EUR,01 Sep 2017,04 Sep 2017,50,279
+xbt,B,0.14,USD,02 Sep 2017,05 Sep 2017,3,3900
